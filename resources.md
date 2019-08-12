@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 layout: about
-image: /images/headers/E5_header_logo.png
+image: /images/headers/reef.jpg
 ---
 
 
